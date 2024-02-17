@@ -83,7 +83,7 @@ class _MyHomepageState extends State<MyHomepage> {
                       Row(
                         children: [
                           matrix(number, 0),
-                          SizedBox(width: 20,),
+                          SizedBox(width: 50,),
                           matrix(number, 1),
                         ],
                       )
